@@ -1,5 +1,8 @@
 # Week 0 — Billing and Architecture
 
+## Link to the Logical Architectual Diagram in Lucid Charts:
+https://lucid.app/lucidchart/d33a67e9-54cc-4cf5-ab21-9a00887bc46b/edit?viewport_loc=-3564%2C-184%2C3836%2C1544%2C0_0&invitationId=inv_ad100c36-1167-4850-9db1-5a9e951e67d8
+
 ## Installing the AWS CLI :
 ![Capture d’écran (1929)](https://user-images.githubusercontent.com/74305308/218776470-4916f0c0-1c1e-4ff9-a1ff-9e0ddf508a52.png)
 
