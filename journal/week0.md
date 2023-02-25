@@ -15,9 +15,9 @@
 
 [8-Enable Billing](#8-enable-billing)
 
-[9-Creating an AWS Budget](#9-creating-an-aws-budget)
+[9-Creating a Billing Alarm](#9-creating-a-billing-alarm)
 
-[10-Enable Billing](#10-enable-billing)
+[10-Creating an AWS Budget](#10-creating-an-aws-budget)
 
 # 1-Conceptual Diagram In Lucid Charts:
 # 2-Conceptual Diagram On a Napkin: 
